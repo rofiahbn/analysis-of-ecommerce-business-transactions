@@ -32,6 +32,15 @@ The company plans to achieve more balanced international sales over the next fiv
 
 ---
 
+## 📂 Data Source
+
+The dataset used in this project is the **An Online Shop Business** dataset, which contains one year of transaction records from a UK-based e-commerce retailer. It includes information on transactions, products, customers, quantities, prices, and countries, making it suitable for sales performance and business analytics. :contentReference[oaicite:0]{index=0}
+
+**Source:**
+- :contentReference[oaicite:1]{index=1}
+
+---
+
 ## 📈 Business Questions
 
 - Which countries have the highest number of transactions after the United Kingdom?
