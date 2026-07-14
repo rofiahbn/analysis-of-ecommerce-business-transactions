@@ -1,5 +1,11 @@
 # Analysis of E-commerce Business Transactions
 
+[![Tableau Dashboard](https://img.shields.io/badge/Tableau-Dashboard-E97627?logo=tableau&logoColor=white)](https://public.tableau.com/views/P1M2_rofiah-budi/DashboardFull?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+[![Tableau Story](https://img.shields.io/badge/Tableau-Story-E97627?logo=tableau&logoColor=white)](https://public.tableau.com/views/P1M2_rofiah-budi/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+[![Dataset](https://img.shields.io/badge/Dataset-Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/gabrielramos87/an-online-shop-business/data)
+
 ## 📌 Overview
 
 This project analyzes an international e-commerce company's business transactions using **Tableau Dashboard** and **Tableau Story**. The objective is to uncover sales patterns, customer behavior, and business opportunities that support the company's international expansion strategy.
@@ -29,15 +35,6 @@ Although the company already operates internationally, its sales are still conce
 ## ❓ Problem Statement
 
 The company plans to achieve more balanced international sales over the next five years. To support this objective, it needs insights into the factors influencing sales performance and customer transactions across different countries.
-
----
-
-## 📂 Data Source
-
-The dataset used in this project is the **An Online Shop Business** dataset, which contains one year of transaction records from a UK-based e-commerce retailer. It includes information on transactions, products, customers, quantities, prices, and countries, making it suitable for sales performance and business analytics.
-
-**Source:**
-- [:contentReference[oaicite:1]{index=1}](https://www.kaggle.com/datasets/gabrielramos87/an-online-shop-business/data)
 
 ---
 
