@@ -1,10 +1,8 @@
 # Analysis of E-commerce Business Transactions
 
-[![Tableau Dashboard](https://img.shields.io/badge/Tableau-Dashboard-E97627?logo=tableau&logoColor=white)](https://public.tableau.com/views/P1M2_rofiah-budi/DashboardFull?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
-[![Tableau Story](https://img.shields.io/badge/Tableau-Story-E97627?logo=tableau&logoColor=white)](https://public.tableau.com/views/P1M2_rofiah-budi/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
-[![Dataset](https://img.shields.io/badge/Dataset-Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/gabrielramos87/an-online-shop-business/data)
+- **Dataset:** [Kaggle - An Online Shop Business](https://www.kaggle.com/datasets/gabrielramos87/an-online-shop-business/data)
+- **Tableau Dashboard:** [View Dashboard](https://public.tableau.com/views/P1M2_rofiah-budi/DashboardFull?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- **Tableau Story:** [View Story](https://public.tableau.com/views/P1M2_rofiah-budi/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 📌 Overview
 
