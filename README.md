@@ -34,10 +34,10 @@ The company plans to achieve more balanced international sales over the next fiv
 
 ## 📂 Data Source
 
-The dataset used in this project is the **An Online Shop Business** dataset, which contains one year of transaction records from a UK-based e-commerce retailer. It includes information on transactions, products, customers, quantities, prices, and countries, making it suitable for sales performance and business analytics. :contentReference[oaicite:0]{index=0}
+The dataset used in this project is the **An Online Shop Business** dataset, which contains one year of transaction records from a UK-based e-commerce retailer. It includes information on transactions, products, customers, quantities, prices, and countries, making it suitable for sales performance and business analytics.
 
 **Source:**
-- :contentReference[oaicite:1]{index=1}
+- [:contentReference[oaicite:1]{index=1}](https://www.kaggle.com/datasets/gabrielramos87/an-online-shop-business/data)
 
 ---
 
